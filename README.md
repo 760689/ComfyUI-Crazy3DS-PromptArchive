@@ -58,13 +58,7 @@ Crazy3DS-PromptArchive/
 4. **分类与调取**：
    * 点击标签页切换不同分类，双击分类标签可重命名。
    * 下方列表中点击提示词文本可切换展开/折叠，点击 **“载入”** 立即提取回主编辑框参与工作流。
-<img width="777" height="714" alt="屏幕截图 2026-09-05 201450" src="https://github.com/user-attachments/assets/d6c6a341-2ea1-4e18-93fe-8169b17ac48c" /><img width="715" height="662" alt="屏幕截图 2026-09-05 201516" src="https://github.com/user-attachments/assets/d987e62d-2937-4607-a51c-8b939a9e8354" />
-<img width="562" height="332" alt="屏幕截图 2026-09-05 203325" src="https://github.com/user-attachments/assets/8b4e2b8e-87e8-4f35-bab9-7b33a54b4886" /><img width="559" height="356" alt="屏幕截图 2026-09-05 203337" src="https://github.com/user-attachments/assets/b6b41cad-4fc0-4fe8-9649-f9e3164db9d3" />
-
-
-<img width="448" height="185" alt="屏幕截图 2026-09-05 203241" src="https://github.com/user-attachments/assets/b24f20ce-21b6-41b7-b445-63e15f420983" />
-<img width="450" height="197" alt="屏幕截图 2026-09-05 203230" src="https://github.com/user-attachments/assets/1cda4919-c67a-48f1-8eb8-41a7fde835bb" />
-<img width="448" height="199" alt="屏幕截图 2026-09-05 203254" src="https://github.com/user-attachments/assets/1d5ad024-5072-461d-87fc-46b204453bf4" />
+<img width="715" height="662" alt="屏幕截图 2026-09-05 201516" src="https://github.com/user-attachments/assets/d987e62d-2937-4607-a51c-8b939a9e8354" />
 
 ---
 
