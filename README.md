@@ -60,9 +60,9 @@ Crazy3DS-PromptArchive/
    * 下方列表中点击提示词文本可切换展开/折叠，点击 **“载入”** 立即提取回主编辑框参与工作流。
 
 ---
-<img width="650" height="604" alt="屏幕截图 2026-09-05 203938" src="https://github.com/user-attachments/assets/ee5c424f-4788-4f3e-b66d-8659145679d4" />
+<img width="650" height="600" alt="屏幕截图 2026-09-05 203938" src="https://github.com/user-attachments/assets/ee5c424f-4788-4f3e-b66d-8659145679d4" />
 
-<img width="715" height="662" alt="屏幕截图 2026-09-05 201516" src="https://github.com/user-attachments/assets/d987e62d-2937-4607-a51c-8b939a9e8354" />
+<img width="650" height="600" alt="屏幕截图 2026-09-05 201516" src="https://github.com/user-attachments/assets/d987e62d-2937-4607-a51c-8b939a9e8354" />
 
 ---
 
